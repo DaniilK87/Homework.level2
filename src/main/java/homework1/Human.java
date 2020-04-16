@@ -19,4 +19,4 @@ public class Human implements Jump, Run {
     public int getHumanJump() {
         return HumanJump;
     }
-}
+}//

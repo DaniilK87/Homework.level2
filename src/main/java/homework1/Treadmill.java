@@ -12,6 +12,6 @@ public class Treadmill implements Run {
         return lenght;
     }
     void Treadmill (int lenght) {
-        this.lenght = lenght;
+        this.lenght = lenght; //
     }
 }

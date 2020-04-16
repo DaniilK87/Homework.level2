@@ -9,5 +9,5 @@ public class Wall implements Jump {
 
     int getWall () {
         return Wall;
-    }
+    } //
 }

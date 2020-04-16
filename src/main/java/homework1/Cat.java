@@ -19,4 +19,4 @@ public class Cat implements Run, Jump {
     public int getCatJump() {
         return CatJump;
     }
-}
+} //
